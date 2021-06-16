@@ -6,4 +6,4 @@ Day 4 notes
 Day 5 notes
 
 Post release
-Completred
+ Completed for one month
